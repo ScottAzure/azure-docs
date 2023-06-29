@@ -17,11 +17,13 @@ Before you begin an in-place upgrade:
 
 - Review the upgrade requirements for the target operating system:
 
-   - Upgrade options for Windows Server 2016 from Windows Server 2012 or Windows Server 2012 R2
-   
+   - Upgrade options for Windows Server 2022 from Windows Server 2016 or Windows Server 2019
+
    - Upgrade options for Windows Server 2019 from Windows Server 2012 R2 or Windows Server 2016
 
-   - Upgrade options for Windows Server 2022 from Windows Server 2016 or Windows Server 2019
+   - Upgrade options for Windows Server 2016 from Windows Server 2012 or Windows Server 2012 R2
+   
+   - Windows Server 2012 R2 can be upgraded to Windows Server 2019 or Windows Server 2016
 
 - Verify the operating system disk has enough [free space to perform the in-place upgrade](/windows-server/get-started/hardware-requirements#storage-controller-and-disk-space-requirements). If additional space is needed [follow these steps](./windows/expand-os-disk.md) to expand the operating system disk attached to the VM.  
 
